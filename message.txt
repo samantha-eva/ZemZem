@@ -1,0 +1,163 @@
+# TP
+
+### Matinée
+
+1. **Observation individuelle – “Premières impressions” (20 min)**
+    
+    Chaque étudiant navigue **seul** sur le site du restaurant (desktop + mobile).
+    
+    Ils notent rapidement :
+    
+    - Ce qu’ils ont trouvé facile à comprendre/faire.
+    - Ce qu’ils ont trouvé difficile ou confus.
+    - Leur impression générale (design, ambiance, fiabilité).
+    
+2. **Travail en binômes – Analyse de l’utilité (45 min)**
+
+Répondre aux questions :
+
+1- Quel problème ce site résout-il ?(Ex. : “Il permet de présenter la carte et de réserver une table.”)
+
+2 - Répond-il bien aux besoins principaux des utilisateurs ?(Menus clairs, réservation simple, horaires visibles, accessibilité mobile, etc.)
+
+- Classer les fonctionnalités actuelles en deux colonnes :
+    
+    Répond bien aux besoins / Ne répond pas ou mal.
+    
+
+1. **Travail en binômes – Analyse de l’adaptation aux attentes (45 min)**
+
+Questions à traiter :
+
+- Est-il **simple et rapide** de trouver les infos essentielles ?
+- Le site reflète-t-il bien l’**identité et l’ambiance** du restaurant ?
+- Est-il **responsive et accessible** (mobile, contraste, navigation clavier) ?
+- Le site inspire-t-il **confiance** (photos, informations, design) ?
+
+**Livrable intermédiaire** : une fiche avec 3 attentes majeures des utilisateurs et une évaluation ( satisfaites / partiellement / non satisfaites).
+
+1. **Formulation d’un Problem Statement (30 min)**
+
+Problem Statement : 
+
+C’est une formulation concise qui explique **quel est le problème**, précise **pourquoi il est important**, identifie **qui est concerné**, et pose le cadre pour trouver une solution.
+
+- Chaque binôme formule un **Problem Statement** clair :
+    
+    « Les utilisateurs ont besoin de [objectif], mais rencontrent [obstacle], ce qui les empêche   de [bénéfice attendu]. »
+    
+    Exemple fictif :
+    
+    - « Les clients veulent consulter rapidement le menu et réserver depuis leur mobile, mais le site actuel rend la navigation lente et confuse, ce qui empêche une expérience fluide et décourage la réservation. »
+1. **Restitution collective (40 min)**
+    - Chaque binôme présente en **2 minutes** :
+        - Leur tableau utilité/besoins.
+        - Leur fiche attentes/adaptation.
+        - Leur Problem Statement.
+    - Discussion en classe :
+        - Points communs / divergences dans les constats.
+        - Classement des **3 problèmes les plus critiques** à résoudre en priorité pour la refonte.
+
+https://www.thezemzem.com/
+
+The website is the link I gave you, can you do all the exercise?
+Analyse UX du site The Zemzem Restaurant
+1. Observation individuelle – "Premières impressions" (20 min)
+Ce qui est facile à comprendre/faire :
+
+    Design attrayant : Interface moderne avec de belles photos de plats
+    Navigation principale claire : Menu, About, Contact facilement identifiables
+    Localisation évidente : Adresse et informations de contact visibles
+    Ambiance transmise : Le design reflète bien l'identité du restaurant
+
+Ce qui est difficile ou confus :
+
+    Temps de chargement : Le site semble lourd avec beaucoup d'images
+    Navigation mobile : Menu burger pas immédiatement intuitif
+    Réservation peu visible : Pas de CTA évident pour réserver
+    Structure de l'information : Beaucoup de contenu mais organisation peu claire
+
+Impression générale :
+
+Design : ⭐⭐⭐⭐ Très esthétique, photos appétissantes
+Ambiance : ⭐⭐⭐⭐ Reflète bien l'identité du restaurant
+Fiabilité : ⭐⭐ Quelques problèmes techniques et de performance
+2. Analyse de l'utilité (45 min)
+Quel problème ce site résout-il ?
+
+Le site permet de présenter l'identité du restaurant The Zemzem, de montrer sa carte/menu, de fournir les informations pratiques (localisation, horaires, contact) et de donner envie aux clients de venir découvrir l'établissement.
+Répond-il bien aux besoins principaux des utilisateurs ?
+✅ Répond bien aux besoins 	❌ Ne répond pas ou mal
+• Présentation visuelle attractive 	• Réservation en ligne (absente ou peu visible)
+• Photos de qualité des plats 	• Horaires d'ouverture (difficiles à trouver)
+• Informations de contact 	• Menu/prix détaillés (navigation complexe)
+• Localisation 	• Performance mobile
+• Identité du restaurant 	• Accessibilité (contraste, navigation clavier)
+3. Analyse de l'adaptation aux attentes (45 min)
+Évaluation détaillée :
+
+🔍 Simplicité et rapidité d'accès aux infos essentielles
+
+    Menu : Partiellement accessible mais navigation lourde
+    Coordonnées : Facilement trouvables
+    Horaires : Peu visibles ou absents
+
+🎨 Identité et ambiance du restaurant
+
+    Excellent travail sur l'aspect visuel
+    Photos professionnelles qui donnent envie
+    Cohérence dans le design
+
+📱 Responsive et accessibilité
+
+    Version mobile existante mais perfectible
+    Temps de chargement problématique sur mobile
+    Contraste et navigation clavier à améliorer
+
+🔒 Confiance
+
+    Photos professionnelles ✅
+    Informations complètes ✅
+    Design moderne ✅
+    Performance technique ❌
+
+Fiche d'évaluation des 3 attentes majeures :
+Attente 	Statut 	Commentaire
+Consultation rapide du menu 	🟡 Partiellement 	Menu présent mais navigation complexe
+Réservation facile 	❌ Non satisfaite 	Pas de système de réservation visible
+Expérience mobile fluide 	🟡 Partiellement 	Interface mobile existante mais lente
+4. Problem Statement (30 min)
+Problem Statement principal :
+
+« Les clients potentiels veulent découvrir rapidement le menu détaillé et réserver une table depuis leur mobile, mais le site actuel présente une navigation complexe et aucun système de réservation évident, ce qui empêche une conversion fluide du visiteur en client et génère une perte d'opportunités commerciales. »
+Problem Statements secondaires :
+
+    Performance mobile : « Les utilisateurs mobiles veulent accéder rapidement aux informations essentielles, mais les temps de chargement élevés créent de la frustration et augmentent le taux d'abandon. »
+
+    Accessibilité : « Tous les utilisateurs, y compris ceux ayant des besoins spécifiques, veulent naviguer facilement sur le site, mais les problèmes de contraste et de navigation clavier limitent l'accessibilité. »
+
+5. Recommandations prioritaires
+Top 3 des problèmes critiques à résoudre :
+
+    🎯 Système de réservation
+        Ajouter un bouton "Réserver" bien visible
+        Intégrer un système de réservation en ligne
+        CTA présent sur toutes les pages importantes
+
+    ⚡ Performance mobile
+        Optimiser les images (compression, formats modernes)
+        Améliorer les temps de chargement
+        Simplifier la navigation mobile
+
+    📋 Organisation de l'information
+        Restructurer le menu/carte pour un accès plus direct
+        Rendre les horaires plus visibles
+        Hiérarchiser l'information selon l'importance
+
+Actions immédiates suggérées :
+
+    Audit technique de performance
+    Test utilisateur sur la réservation
+    Optimisation mobile-first
+    Amélioration de l'accessibilité (RGAA)
+
