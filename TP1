@@ -58,10 +58,7 @@ C’est une formulation concise qui explique **quel est le problème**, précise
         - Points communs / divergences dans les constats.
         - Classement des **3 problèmes les plus critiques** à résoudre en priorité pour la refonte.
 
-https://www.thezemzem.com/
 
-The website is the link I gave you, can you do all the exercise?
-Analyse UX du site The Zemzem Restaurant
 1. Observation individuelle – "Premières impressions" (20 min)
 Ce qui est facile à comprendre/faire :
 
@@ -82,17 +79,23 @@ Impression générale :
 Design : ⭐⭐⭐⭐ Très esthétique, photos appétissantes
 Ambiance : ⭐⭐⭐⭐ Reflète bien l'identité du restaurant
 Fiabilité : ⭐⭐ Quelques problèmes techniques et de performance
+
 2. Analyse de l'utilité (45 min)
 Quel problème ce site résout-il ?
 
 Le site permet de présenter l'identité du restaurant The Zemzem, de montrer sa carte/menu, de fournir les informations pratiques (localisation, horaires, contact) et de donner envie aux clients de venir découvrir l'établissement.
+
 Répond-il bien aux besoins principaux des utilisateurs ?
-✅ Répond bien aux besoins 	❌ Ne répond pas ou mal
-• Présentation visuelle attractive 	• Réservation en ligne (absente ou peu visible)
-• Photos de qualité des plats 	• Horaires d'ouverture (difficiles à trouver)
-• Informations de contact 	• Menu/prix détaillés (navigation complexe)
-• Localisation 	• Performance mobile
-• Identité du restaurant 	• Accessibilité (contraste, navigation clavier)
+
+| ✅ Répond bien aux besoins        | ❌ Ne répond pas ou mal                        |
+| -------------------------------- | --------------------------------------------- |
+| Présentation visuelle attractive | Réservation en ligne (absente ou peu visible) |
+| Photos de qualité des plats      | Horaires d’ouverture (difficiles à trouver)   |
+| Informations de contact          | Menu/prix détaillés (navigation complexe)     |
+| Localisation                     | Performance mobile                            |
+| Identité du restaurant           | Accessibilité (contraste, navigation clavier) |
+
+
 3. Analyse de l'adaptation aux attentes (45 min)
 Évaluation détaillée :
 
@@ -100,7 +103,7 @@ Répond-il bien aux besoins principaux des utilisateurs ?
 
     Menu : Partiellement accessible mais navigation lourde
     Coordonnées : Facilement trouvables
-    Horaires : Peu visibles ou absents
+    Horaires : Peu visibles
 
 🎨 Identité et ambiance du restaurant
 
@@ -119,13 +122,16 @@ Répond-il bien aux besoins principaux des utilisateurs ?
     Photos professionnelles ✅
     Informations complètes ✅
     Design moderne ✅
-    Performance technique ❌
 
 Fiche d'évaluation des 3 attentes majeures :
-Attente 	Statut 	Commentaire
-Consultation rapide du menu 	🟡 Partiellement 	Menu présent mais navigation complexe
-Réservation facile 	❌ Non satisfaite 	Pas de système de réservation visible
-Expérience mobile fluide 	🟡 Partiellement 	Interface mobile existante mais lente
+
+| **Attente**                 | **Statut**       | **Commentaire**                       |
+| --------------------------- | ---------------- | ------------------------------------- |
+| Consultation rapide du menu | 🟡 Partiellement | Menu présent mais navigation complexe |
+| Réservation facile          | ❌ Non satisfaite | Pas de système de réservation visible |
+| Expérience mobile fluide    | 🟡 Partiellement | Interface mobile existante mais lente |
+
+
 4. Problem Statement (30 min)
 Problem Statement principal :
 
